@@ -6,9 +6,8 @@ Documentation of the tasks I have done as a Data Analyst Intern at Decision Inte
 - Python - Build ETL Pipeline, Exploratory Data Analysis, & Machine Learning Models
 - Power BI - DAX Functions, Visulaize Data, & Reports
 ### ETL Pipelines & Trend Analysis
-- Scripts:
-  - RLS162Demo ETL with trend analysis.ipynb
-  - Sepidar01_ETL.ipynb
+- RLS162Demo ETL with trend analysis.ipynb
+- Sepidar01_ETL.ipynb
 ### Power BI Dashboards
 - RLS162Demo.pbix
 - Sepidar01.pbix
